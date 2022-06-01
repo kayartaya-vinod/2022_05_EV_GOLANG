@@ -1,4 +1,4 @@
-# Programming constructs (if-else, switch, for)
+# Programming constructs (if-else, switch, for) and functions
 
 ### Exercise 1
 
