@@ -1,6 +1,27 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math"
+)
+
+func infiniteLoopDemo() {
+	for {
+		var num float64
+		fmt.Print("Enter a number: ")
+		fmt.Scanf("%f", &num)
+		fmt.Printf("Square root of %f is %f\n", num, math.Sqrt(num))
+
+		fmt.Print("Do you wish to try another? (yes/no) ")
+		var ans string
+		fmt.Scanf("%s", &ans)
+
+		if ans == "no" {
+			break
+		}
+	}
+	fmt.Println("That's all folks!")
+}
 
 func printFactorial() {
 	var num int
@@ -8,8 +29,7 @@ func printFactorial() {
 	_, err := fmt.Scanf("%d", &num)
 
 	if err != nil {
-		fmt.Println("Error - ", err)
-		return
+		panic("There was an error: " + err.Error())
 	}
 
 	if num < 0 {

@@ -4,5 +4,6 @@ func main() {
 	// numberBasics()
 	// operatorsDemo()
 	// feetToMeters()
-	usingStrings()
+	// usingStrings()
+	usingConstants()
 }

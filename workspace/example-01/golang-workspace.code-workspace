@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../example-03"
+		},
+		{
+			"path": "../example-04"
 		}
 	],
     "settings": {}

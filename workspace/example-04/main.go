@@ -9,5 +9,11 @@ func main() {
 	// checkForWeekday()
 	// greetByTime()
 	// printMultiplicationTable()
-	printFactorial()
+	// printFactorial()
+	// infiniteLoopDemo()
+	// arrayBasics()
+	// sliceBasics()
+	// sliceOperations()
+	// mapsBasics()
+	testFunctions()
 }
