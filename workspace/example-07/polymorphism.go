@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // an interface is a group of related function declarations
 // any object that has implemented those functions, can be treated as
@@ -27,4 +29,5 @@ func main() {
 
 	measure(c1)
 	measure(r1)
+
 }
