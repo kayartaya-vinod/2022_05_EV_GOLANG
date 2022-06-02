@@ -1,17 +1,26 @@
 {
     "folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../example-02"
-		},
-		{
-			"path": "../example-03"
-		},
-		{
-			"path": "../example-04"
-		}
-	],
+        {
+            "path": "."
+        },
+        {
+            "path": "../example-02"
+        },
+        {
+            "path": "../example-03"
+        },
+        {
+            "path": "../example-04"
+        },
+        {
+            "path": "../example-05"
+        },
+        {
+            "path": "../example-06"
+        },
+        {
+            "path": "../example-07"
+        }
+    ],
     "settings": {}
 }
