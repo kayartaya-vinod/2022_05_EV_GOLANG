@@ -1,4 +1,4 @@
-# EXERCISE: Struts
+# EXERCISE: Structs
 
 Starting with this exercise, you'll build a command-line game store.
 
