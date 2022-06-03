@@ -20,6 +20,15 @@
         },
         {
             "path": "../example-07"
+        },
+        {
+            "path": "../example-08"
+        },
+        {
+            "path": "../example-09"
+        },
+        {
+            "path": "../example-10"
         }
     ],
     "settings": {}
