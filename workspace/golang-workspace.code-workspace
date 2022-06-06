@@ -1,0 +1,44 @@
+{
+    "folders": [
+        {
+            "path": "./example-01-basics"
+        },
+        {
+            "path": "./example-02-variables"
+        },
+        {
+            "path": "./example-03-datatypes"
+        },
+        {
+            "path": "./example-04-constructs-arrays-slices-map"
+        },
+        {
+            "path": "./example-05-functions-recursion"
+        },
+        {
+            "path": "./example-06-multiple-returns"
+        },
+        {
+            "path": "./example-07-oop"
+        },
+        {
+            "path": "./example-08-json-xml"
+        },
+        {
+            "path": "./example-09-file-handling"
+        },
+        {
+            "path": "./example-10-mysql"
+        },
+        {
+            "path": "./example-11-sqlite3"
+        },
+        {
+            "path": "./example-12-concurrency"
+        },
+        {
+            "path": "./example-13-unittesting"
+        }
+    ],
+    "settings": {}
+}
